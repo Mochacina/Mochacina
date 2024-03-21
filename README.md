@@ -1,6 +1,7 @@
 ### Mochacina 
 
 <hr>
+- Python, C++, Java, Lust, LUA
 
 [![Mochacina's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mochacina)](https://github.com/Mochacina/github-readme-stats)
 
