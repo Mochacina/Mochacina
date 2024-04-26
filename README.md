@@ -4,7 +4,7 @@
 
 Hello, I'm Mochacina.
 
-Backend Developer - C++/Python
+C++/Python
 
 <!-- [![Mochacina's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mochacina)](https://github.com/Mochacina/github-readme-stats) -->
 
