@@ -1,14 +1,14 @@
 ### Mochacina 
 
-<hr>
-
 Hello, I'm Mochacina. (=Brie)
 
-C++/Python
+C++/Python Dev
 
 - Engineer Information Processing
 - Engineer Information Security
 - Engineer Big Data Analysis
+
+> *"We advocate for a free and open internet. No corporation has the authority to mandate advertisement viewing as a condition for access.*"
 
 <!-- [![Mochacina's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mochacina)](https://github.com/Mochacina/github-readme-stats) -->
 
