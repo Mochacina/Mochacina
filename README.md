@@ -6,6 +6,10 @@ Hello, I'm Mochacina.
 
 C++/Python
 
+- Engineer Information Processing
+- Engineer Information Security
+- Engineer Big Data Analysis
+
 <!-- [![Mochacina's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mochacina)](https://github.com/Mochacina/github-readme-stats) -->
 
 <!--
