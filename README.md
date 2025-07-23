@@ -2,7 +2,7 @@
 
 <hr>
 
-Hello, I'm Mochacina.
+Hello, I'm Mochacina. (=Brie)
 
 C++/Python
 
