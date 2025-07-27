@@ -8,7 +8,7 @@ C++/Python Dev
 - Engineer Information Security
 - Engineer Big Data Analysis
 
-### Brie & Meister Helena
+### Brie & Helena
 
 > *"We advocate for a free and open internet. No corporation has the authority to mandate advertisement viewing as a condition for access.*"
 
