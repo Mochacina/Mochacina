@@ -8,10 +8,6 @@ C++/Python Dev
 - Engineer Information Security
 - Engineer Big Data Analysis
 
-### Brie & Helena
-
-> *"We advocate for a free and open internet. No corporation has the authority to mandate advertisement viewing as a condition for access.*"
-
 <!-- [![Mochacina's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mochacina)](https://github.com/Mochacina/github-readme-stats) -->
 
 <!--
