@@ -8,8 +8,6 @@ C++/Python Dev
 - Engineer Information Security
 - Engineer Big Data Analysis
 
-> 세상을 이롭게 만드는 개발을 지향합니다.
-
 <!-- [![Mochacina's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mochacina)](https://github.com/Mochacina/github-readme-stats) -->
 
 <!--
